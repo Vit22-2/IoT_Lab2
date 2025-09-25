@@ -19,6 +19,20 @@
   
   <img width="984" height="521" alt="image" src="https://github.com/user-attachments/assets/06ba0b14-c732-4ca9-9eff-a342dd8668e6" />
   
-  ## Usage
+  ## Usage instruction
+  - Go to web page → Click LED ON/OFF to control LED.
+  - See temperature & humidity auto-refresh every 3 seconds.
+  - Click Show Distance → LCD line 1 shows distance.
+  - Click Show Temperature → LCD line 2 shows temperature.
+  - Type text into the textbox → press Send → LCD displays your message.
+
+  ## Screenshots of web page + LCD output
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/72371288-f3a4-4016-abe2-aafed7830194" />
+  <img width="718" height="962" alt="image" src="https://github.com/user-attachments/assets/8cc92654-6553-486f-82fe-739d6720a1f9" />
+
+
+  ## Short demo video (60–90s)
+
+
   
   
