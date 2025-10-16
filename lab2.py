@@ -4,8 +4,8 @@ from time import sleep, sleep_us
 import network, socket, dht, json
 
 # ---------------- CONFIG ----------------
-SSID = "Robotic WIFI"
-PASSWORD = "rbtWIFI@2025"
+SSID = " "
+PASSWORD = " "
 I2C_ADDR = 0x27
 
 # ---------------- HARDWARE SETUP ----------------
@@ -232,4 +232,5 @@ while True:
 
     conn.close()
     sleep(0.1)
+
 
